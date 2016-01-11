@@ -1,7 +1,5 @@
 /*
 Oracle. Selected fields related to individual discussion post or reply status within specified time range.
-Modify @FromDate variable to specify date of action.
-If multiple days required, modify ThruDate variable to last date req'd, exclusive. 
 Use AND parameters to specify student and course.
 4/30/15
 */
